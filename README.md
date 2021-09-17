@@ -44,3 +44,14 @@ https://github.com/KushanChamindu/Pump-it-Up-Data-Mining-the-Water-Table-Competi
 
 * RandomForestClassifier (sklearn)
 * XGBClassifier (xgboost)
+
+## Experiments
+
+| Modal | Train Accuracy | Test Accuracy |
+| --- | --- | --- |
+| Random Forest |  0.92178 | 0.79309 |
+| XGBoost | 0.9298 | 0.81111 |
+
+## Submission
+
+![Capture](https://user-images.githubusercontent.com/46677634/133819135-44fdc7df-2991-458f-9154-1609b2868569.JPG)
